@@ -1,0 +1,13 @@
+/         https://recollate.com
+
+# Web perf talk
+/perf-stats                 https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154
+/paint-timing               https://w3c.github.io/paint-timing/
+/ttfi                       https://github.com/WICG/time-to-interactive#definition
+/state-of-js                https://beta.httparchive.org/reports/state-of-javascript#bytesJs
+/request-idle-callback      https://developers.google.com/web/updates/2015/08/using-requestidlecallback
+/idle-until-urgent          https://philipwalton.com/articles/idle-until-urgent/
+/reddit-map                 http://requestmap.webperf.tools/render/181011_RP_1c0717a3e81f7ee1eebf8ec09ff81f2b#
+/input-delay                https://developers.google.com/web/updates/2018/05/first-input-delay
+
+
