@@ -9,6 +9,7 @@
 /webpack-analyser           https://www.npmjs.com/package/webpack-bundle-analyzer
 /moment-js                  https://github.com/moment/moment/issues/2517
 /ttfi-definition            https://github.com/WICG/time-to-interactive#definition
+/poo-on-thread              https://twitter.com/samccone/status/765404251405193216
 /state-of-js                https://beta.httparchive.org/reports/state-of-javascript#bytesJs
 /request-idle-callback      https://developers.google.com/web/updates/2015/08/using-requestidlecallback
 /idle-until-urgent          https://philipwalton.com/articles/idle-until-urgent/
