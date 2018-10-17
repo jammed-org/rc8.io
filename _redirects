@@ -6,6 +6,7 @@
 /paint-timing               https://w3c.github.io/paint-timing/
 /universal-selector         https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors
 /rendering-path             https://developers.google.com/web/fundamentals/performance/critical-rendering-path/
+/webpack-analyser           https://www.npmjs.com/package/webpack-bundle-analyzer
 /moment-js                  https://github.com/moment/moment/issues/2517
 /ttfi-definition            https://github.com/WICG/time-to-interactive#definition
 /state-of-js                https://beta.httparchive.org/reports/state-of-javascript#bytesJs
@@ -14,5 +15,4 @@
 /reddit-map                 http://requestmap.webperf.tools/render/181011_RP_1c0717a3e81f7ee1eebf8ec09ff81f2b
 /cnn-map                    http://requestmap.webperf.tools/render/181017_4S_faf2039b24574ba3412a8a89777d31cb
 /input-delay                https://developers.google.com/web/updates/2018/05/first-input-delay
-
 
