@@ -8,7 +8,8 @@
 /state-of-js                https://beta.httparchive.org/reports/state-of-javascript#bytesJs
 /request-idle-callback      https://developers.google.com/web/updates/2015/08/using-requestidlecallback
 /idle-until-urgent          https://philipwalton.com/articles/idle-until-urgent/
-/reddit-map                 http://requestmap.webperf.tools/render/181011_RP_1c0717a3e81f7ee1eebf8ec09ff81f2b#
+/reddit-map                 http://requestmap.webperf.tools/render/181011_RP_1c0717a3e81f7ee1eebf8ec09ff81f2b
+/cnn-map                    http://requestmap.webperf.tools/render/181017_4S_faf2039b24574ba3412a8a89777d31cb
 /input-delay                https://developers.google.com/web/updates/2018/05/first-input-delay
 
 
