@@ -4,7 +4,8 @@
 /perf-stats                 https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154
 /reddit-load                https://drive.google.com/file/d/1pYOG09R-bVHfJYlFzbHp46-L_1FE50u9/view?usp=sharing
 /paint-timing               https://w3c.github.io/paint-timing/
-/ttfi                       https://github.com/WICG/time-to-interactive#definition
+/rendering-path             https://developers.google.com/web/fundamentals/performance/critical-rendering-path/
+/ttfi-definition            https://github.com/WICG/time-to-interactive#definition
 /state-of-js                https://beta.httparchive.org/reports/state-of-javascript#bytesJs
 /request-idle-callback      https://developers.google.com/web/updates/2015/08/using-requestidlecallback
 /idle-until-urgent          https://philipwalton.com/articles/idle-until-urgent/
