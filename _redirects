@@ -17,3 +17,7 @@
 /cnn-map                    http://requestmap.webperf.tools/render/181017_4S_faf2039b24574ba3412a8a89777d31cb
 /input-delay                https://developers.google.com/web/updates/2018/05/first-input-delay
 
+# Web perf talk - part II
+/jam-stack                  https://jamstack.org/
+/css-triggers               https://csstriggers.com/opacity
+
