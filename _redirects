@@ -16,6 +16,9 @@
 /reddit-map                 http://requestmap.webperf.tools/render/181011_RP_1c0717a3e81f7ee1eebf8ec09ff81f2b
 /cnn-map                    http://requestmap.webperf.tools/render/181017_4S_faf2039b24574ba3412a8a89777d31cb
 /input-delay                https://developers.google.com/web/updates/2018/05/first-input-delay
+/median-fid                 https://speedcurve.com/webpagetest/lux-perf/?ld=5&lde=1&lds=1&stat=median
+/delay-perception           https://conferences.oreilly.com/fluent/fluent2014/public/schedule/detail/33107
+
 
 # Web perf talk - part II
 /jam-stack                  https://jamstack.org/
